@@ -16,7 +16,7 @@ const NavBar = () => {
           rpcUrls: ["https://rpc.mrfoxchain.com"],
           nativeCurrency: {
             name: "MrFox Coin",
-            symbol: "MrFOX",
+            symbol: "FOX",
             decimals: 18,
           },
           blockExplorerUrls: ["https://exp.mrfoxchain.com"],
